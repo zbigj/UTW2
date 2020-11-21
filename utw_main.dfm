@@ -18,7 +18,7 @@ object Form1: TForm1
     Top = 40
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = 'Przycisk OK'
     TabOrder = 0
   end
   object CheckBox1: TCheckBox
