@@ -10,8 +10,11 @@ type
   TForm1 = class(TForm)
     Button1: TButton;
     CheckBox1: TCheckBox;
+    RadioButton2: TRadioButton;
+    RadioButton3: TRadioButton;
   private
-    { Private declarations }
+    {
+    RadioButton1: TRadioButton;Private declarations }
   public
     { Public declarations }
   end;

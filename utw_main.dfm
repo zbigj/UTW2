@@ -29,4 +29,28 @@ object Form1: TForm1
     Caption = 'CheckBox1'
     TabOrder = 1
   end
+  object RadioButton1: TRadioButton
+    Left = 312
+    Top = 80
+    Width = 113
+    Height = 17
+    Caption = 'RadioButton1'
+    TabOrder = 2
+  end
+  object RadioButton2: TRadioButton
+    Left = 304
+    Top = 120
+    Width = 113
+    Height = 17
+    Caption = 'RadioButton2'
+    TabOrder = 3
+  end
+  object RadioButton3: TRadioButton
+    Left = 304
+    Top = 160
+    Width = 113
+    Height = 17
+    Caption = 'RadioButton3'
+    TabOrder = 4
+  end
 end
